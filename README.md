@@ -1,4 +1,4 @@
-# D3-challenge
+# Data Journalism and D3
  https://kayannr.github.io/D3-challenge/D3_data_journalism/index.html
  
  
