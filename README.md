@@ -7,7 +7,7 @@
  
 ## Background
 
-The data set included is based on 2014 ACS 1-year estimates: [https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml). The data set includes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
+Utilizing information from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System, create charts, graphs and interactive visualizations to help understand findings. The data set included is based on 2014 ACS 1-year estimates: [https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml). The data set includes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
 
 ## Features 
 * Interactive Plot 
