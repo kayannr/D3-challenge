@@ -11,7 +11,11 @@ The data set included is based on 2014 ACS 1-year estimates: [https://factfinder
 
 ## Features 
 * Interactive Plot 
+
+
 ![4-scatter](D3_data_journalism/assets/images/7-animated-scatter.gif)
 
 * D3-tip
+
+
  ![4-scatter](D3_data_journalism/assets/images/8-tooltip.gif)
